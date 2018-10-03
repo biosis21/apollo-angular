@@ -55,7 +55,7 @@
     "ng-packagr": "4.2.0",
     "rxjs": "6.3.3",
     "ts-jest": "23.10.2",
-    "typescript": "2.9.2",
+    "typescript": "3.1.1",
     "zone.js": "0.8.26"
   }
 }
